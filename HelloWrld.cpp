@@ -1,3 +1,5 @@
+// this code is not in CMakeLists so will not execute to let it execute put it in "add_executable" in that file
+
 #include <iostream> // "header file library" lets us use input/output
 
 using namespace std; //means we dont need to do std::cout
