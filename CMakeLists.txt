@@ -4,8 +4,8 @@ project(LearningCPlusPlusv2)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(LearningCPlusPlusv2
-        strings.cpp
-        Testing.cpp
+
+        if.cpp
 )
 
 
